@@ -112,7 +112,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Landing Page
 
-![image](https://user-images.githubusercontent.com/43011442/130415789-fc6029f8-a4ce-4784-8df2-2b9ba16e3895.png)
 ![image](https://user-images.githubusercontent.com/43011442/130415989-66a35716-556b-474c-afc6-e6eaca35ee50.png)
 ![image](https://user-images.githubusercontent.com/43011442/130416062-b78532cc-7081-417d-9dd9-14063f3bfe3a.png)
 ![image](https://user-images.githubusercontent.com/43011442/130416124-8cdc523b-6865-4b1c-90c8-6f437c8456d3.png)
@@ -138,10 +137,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <br>
 
 # ADMIN MODE: 📫
-
-## Admin Dashboard
-
-![image](https://user-images.githubusercontent.com/43011442/130577430-97d50d49-ba59-4a5c-82b8-a68a5e60166e.png)
 
 
 
@@ -206,15 +201,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <br>
 
-# PROFESSOR MODE ❤️
-
-## Professor Dashboard
-
-![image](https://user-images.githubusercontent.com/43011442/130580880-e6297597-2cf1-40c4-9e96-c3a3fd57fd8e.png)
-
-
-
-
 ## Edit Professor Profile
 
 ![image](https://user-images.githubusercontent.com/43011442/130581192-d4c593d1-0f3d-4e66-9ce1-fe3d1ffc3a5c.png)
@@ -235,144 +221,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130581824-2887c851-a72e-4da4-990c-0ed242de383a.png)
 
-
-
-## Professor Current Learning
-
-![image](https://user-images.githubusercontent.com/43011442/130582095-a98f2a72-98ae-41be-b661-bab4e2aacffa.png)
-
-
-
-## Professor Wishlist
-
-![image](https://user-images.githubusercontent.com/43011442/130582377-5a3b0f35-4726-44ce-a9c8-4336e0721821.png)
-
-
-## Course List
-
-![image](https://user-images.githubusercontent.com/43011442/130582765-d4378ef2-d66b-4853-a791-5dd1c391a688.png)
-
-
-
-
-## Youtube Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130583120-cbe3d194-6138-48cd-8c25-4235ee6255b3.png)
-
-
-## Website Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130583283-56d88c8a-c341-4efd-bbf6-56db5a50434f.png)
-
-
-## Professor List
-
-![image](https://user-images.githubusercontent.com/43011442/130583536-060cdb7b-828e-4d0e-bcc5-c1d0b16f60a8.png)
-
-
-
-## User List
-
-![image](https://user-images.githubusercontent.com/43011442/130583784-af41d038-5166-4d11-afa2-a17f2811b9a3.png)
-
-
-<br>
-
-# USER MODE 😄
-
-## User Dashboard
-
-![image](https://user-images.githubusercontent.com/43011442/130584040-68056f87-05e4-4586-9e78-f1d1d130b1aa.png)
-
-
-![image](https://user-images.githubusercontent.com/43011442/130584186-8143efd8-fe23-4997-8dce-cf9a0c1ccc28.png)
-
-
-## Edit User Profile
-
-![image](https://user-images.githubusercontent.com/43011442/130584316-8fefd5af-8a5b-45e7-9172-e49258389d66.png)
-
-
-
-
-
-## Start Learning
-
-![image](https://user-images.githubusercontent.com/43011442/130584644-fa512e48-18dc-4782-bcf7-fef46d73e9b9.png)
-![image](https://user-images.githubusercontent.com/43011442/130584734-bc8ef1ba-790f-4eba-8b07-50221dc46d48.png)
-![image](https://user-images.githubusercontent.com/43011442/130584775-c4720ddb-bbe5-4de7-9574-be42d26e4587.png)
-
-
-## Youtube Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130584886-eaa53164-bcdc-49b6-a1e2-379f0529dddc.png)
-
-
-## Course Enrollment Greetings
-
-![image](https://user-images.githubusercontent.com/43011442/130585271-d035e086-07ee-4831-ac29-a8319676ff9a.png)
-
-
-## Website Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130585049-eff4c2cf-9192-4b67-89f6-60be06ea69df.png)
-
-
-## Full Course Content
-
-## (Course With Chapters) 
-
-![image](https://user-images.githubusercontent.com/43011442/130751977-0b115965-7caa-48a6-b8de-b9083b4e7efe.png)
-![image](https://user-images.githubusercontent.com/43011442/130752222-d682f379-00a1-4a6d-8289-35c21f1e8795.png)
-![image](https://user-images.githubusercontent.com/43011442/130588021-4d2203cf-32a0-47f0-8245-1f8abaa2cd09.png)
-![image](https://user-images.githubusercontent.com/43011442/130586142-728e909b-6e83-40e6-81f1-938ebcd04dea.png)
-![image](https://user-images.githubusercontent.com/43011442/130586171-4d89ee22-73a9-4641-ae6e-608f87cdbc54.png)
-![image](https://user-images.githubusercontent.com/43011442/130586204-87403ae0-c5ce-4575-b315-b990d0f2be6d.png)
-![image](https://user-images.githubusercontent.com/43011442/130586234-392e0e2a-f8b3-4cfb-a2b7-90e3c6ac1191.png)
-
-
-## (Course without Chapters)
-
-![image](https://user-images.githubusercontent.com/43011442/130585480-3bccfd7d-cb8a-48b9-bb05-8aaeebf87c25.png)
-![image](https://user-images.githubusercontent.com/43011442/130585531-a2fd5451-52b5-4ac7-a589-f10b0aa61551.png)
-![image](https://user-images.githubusercontent.com/43011442/130588144-1be376d9-14b6-478d-b83a-4662a005e75d.png)
-![image](https://user-images.githubusercontent.com/43011442/130585660-0551ada3-1fa1-4b09-94a1-c779de62cbda.png)
-![image](https://user-images.githubusercontent.com/43011442/130585710-021243bd-d345-4528-b859-8f8c1e303dec.png)
-![image](https://user-images.githubusercontent.com/43011442/130585749-c7fc2af4-d0d8-43d2-9671-d6619fb6b5c1.png)
-![image](https://user-images.githubusercontent.com/43011442/130585793-430118b8-f61a-4f80-a714-54ebb63fb6c6.png)
-
-
-## User - My Learnings
-
-![image](https://user-images.githubusercontent.com/43011442/130586960-c20b1125-e123-4f59-84aa-6b12025e9fed.png)
-![image](https://user-images.githubusercontent.com/43011442/130586997-e0ef33f3-f544-4ba0-9fa2-87951dfa5087.png)
-
-
-## User - My Wishlist
-
-![image](https://user-images.githubusercontent.com/43011442/130587255-92aab9d6-0810-40f0-95b2-e42d3bbe1086.png)
-
-
-## Course List
-
-![image](https://user-images.githubusercontent.com/43011442/130584644-fa512e48-18dc-4782-bcf7-fef46d73e9b9.png)
-![image](https://user-images.githubusercontent.com/43011442/130584734-bc8ef1ba-790f-4eba-8b07-50221dc46d48.png)
-![image](https://user-images.githubusercontent.com/43011442/130584775-c4720ddb-bbe5-4de7-9574-be42d26e4587.png)
-
-
-## Professor List
-
-![image](https://user-images.githubusercontent.com/43011442/130586374-4f022e44-cd78-43e6-ae10-ceb8c952e9da.png)
-![image](https://user-images.githubusercontent.com/43011442/130586418-d5d8dec0-bb2f-4197-a246-960df5c0c019.png)
-
-
-## User List
-
-![image](https://user-images.githubusercontent.com/43011442/130586512-7f4eee5c-d41f-4cb5-ad2d-9353913545a9.png)
-
-
-
-<br>
 
 
 
